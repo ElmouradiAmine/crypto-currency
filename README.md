@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![](https://github.com/ElmouradiAmine/crypto-currency/blob/master/lib/screenshots/Capture%20d’écran%202019-05-08%20à%2012.31.18.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
